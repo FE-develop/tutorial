@@ -32,6 +32,10 @@
 3. 多媒体和图形编程
 4. HTML5API
 
+### 知识列表
+
++ [关于Ajax](./question-anwser/ajax.md)
+
 ## HTML
 
 ## CSS
