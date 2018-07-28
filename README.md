@@ -27,15 +27,15 @@
 
 ### 其他
 
-1. JQuery类库
-2. 客户端存储
-3. 多媒体和图形编程
-4. HTML5API
+1. 客户端存储
+2. 多媒体和图形编程
+3. HTML5API
 
 ### 知识列表
 
 + [关于Ajax](./question-anwser/ajax.md)
 
-## HTML
+## HTML && CSS
 
-## CSS
+1. HTML5新增标签和属性；
+2. CSS3.0新增属性和属性值。
